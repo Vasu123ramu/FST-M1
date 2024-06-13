@@ -19,4 +19,4 @@ print(dataframe['Email'])
 # Sort the data based on FirstName in ascending order and print the data
 print("====================================")
 print("Sorted data:")
-print(dataframe.sort_values('FirstName'))
+print(dataframe.sort_values('FirstName'))$ pip install pytest pytest-xdist pytest-html
